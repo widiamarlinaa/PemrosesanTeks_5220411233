@@ -1,0 +1,8 @@
+# Normalisasi line endings otomatis
+* text=auto
+
+# File CSV -> gunakan CRLF (Windows)
+*.csv text eol=crlf
+
+# File Python -> gunakan LF (Linux)
+*.py text eol=lf
