@@ -1,6 +1,0 @@
-streamlit
-google-api-python-client
-transformers
-torch
-pandas
-plotly
